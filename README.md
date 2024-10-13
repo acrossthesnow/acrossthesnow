@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] 
+# Hi there! 👋 I'm acrossthesnow
 
 Welcome to my GitHub profile! 🚀  
 I love creating apps, exploring new technologies, and building projects that make a difference.
