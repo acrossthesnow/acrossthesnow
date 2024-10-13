@@ -23,16 +23,12 @@ I love creating apps, exploring new technologies, and building projects that mak
 ---
 
 ## 🚀 Projects in Progress
-
-- 🔮 **[MagicLifeTracker](https://github.com/acrossthesnow/MagicLifeTracker)**: A life counter app for MTG players.
-- 🛡️ **SecureVault**: A cross-platform password manager.
-- 🌐 **Personal Portfolio Website**: Showcasing my work, blog, and projects.
+Currently deciding on what to do...
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acrossthesnow/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/acrossthesnow)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/acrossthesnow)
 
