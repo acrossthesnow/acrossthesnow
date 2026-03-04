@@ -4,71 +4,81 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-# 👋 Hey — I'm Brandon
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=acrossthesnow&fontSize=42&fontColor=ffffff)
 
-I design and build **intelligent systems, developer platforms, and scalable applications**.
+# Brandon — Systems Engineer & Developer
 
-My work focuses on combining:
+I design and build **scalable software systems, intelligent services, and developer platforms**.
 
-- 🧠 **Artificial Intelligence**
-- 🏗 **Full-stack architecture**
-- ☁️ **Cloud & self-hosted infrastructure**
-- 🔐 **Security-first design**
-- ⚙️ **Automation and developer experience**
+My work focuses on architecting systems that combine:
 
-I enjoy solving complex problems by building tools that **make other tools easier to build.**
+- distributed infrastructure
+- modern application frameworks
+- AI-assisted workflows
+- automation pipelines
+- security-first design
+
+I’m particularly interested in **building platforms that enable other developers and systems to move faster**.
 
 ---
 
-# ⚡ What I Work On
+# Core Technical Focus
 
-### 🧠 Intelligent Systems
-Designing systems that combine:
+### Distributed Systems
+
+Designing services that operate reliably across multiple nodes and environments.
+
+Key areas:
+
+- service-oriented architectures
+- containerized workloads
+- runtime orchestration
+- asynchronous job systems
+- distributed processing pipelines
+
+---
+
+### Artificial Intelligence Systems
+
+Engineering practical AI systems and developer tooling around them.
+
+Work includes:
 
 - vector embeddings
-- retrieval augmented generation
-- semantic search
-- recommendation engines
-
-Applications range from **knowledge systems to decision-support tools.**
+- semantic similarity systems
+- retrieval augmented generation (RAG)
+- local inference pipelines
+- model orchestration
 
 ---
 
-### 🏗 Platform & Application Architecture
+### Application Platforms
 
-I design full-stack platforms including:
+Designing full-stack application platforms with:
 
-- authentication systems
 - role-based access control
-- distributed services
-- real-time applications
-- API-first architectures
+- API-first architecture
+- real-time data systems
+- scalable backend services
+- secure authentication layers
 
 ---
 
-### ☁️ Infrastructure & Homelab
+### Infrastructure Engineering
 
-I run a self-hosted infrastructure stack used for:
+Operating and experimenting with self-hosted infrastructure to support development and experimentation.
 
-- container orchestration
-- AI model hosting
-- developer environments
-- experimentation with distributed systems
+Focus areas include:
 
----
-
-### 🧪 Experimental Projects
-
-I frequently build experimental systems exploring:
-
-- local AI inference
-- developer workflow automation
-- media automation pipelines
-- data processing systems
+- container runtimes
+- virtualization
+- storage orchestration
+- GPU workloads
+- developer environment automation
 
 ---
 
-# 🛠 Tech Stack
+# Technology Stack
 
 ## Languages
 
@@ -78,17 +88,30 @@ I frequently build experimental systems exploring:
 
 ---
 
-## Frontend
+## Frontend Architecture
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+Experience designing:
+
+- modular frontend architectures
+- state-driven UI systems
+- real-time application interfaces
+
 ---
 
-## Backend
+## Backend Systems
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+Backend work includes:
+
+- API architecture
+- event-driven services
+- data modeling
+- authentication & authorization systems
 
 ---
 
@@ -98,9 +121,29 @@ I frequently build experimental systems exploring:
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+Infrastructure interests include:
+
+- container orchestration
+- virtualization environments
+- GPU compute nodes
+- automated deployment pipelines
+
 ---
 
-# 📊 GitHub Activity
+# Systems I Enjoy Building
+
+Examples of the types of systems I like designing:
+
+- AI-assisted developer tools
+- recommendation and ranking engines
+- distributed automation platforms
+- media processing pipelines
+- knowledge retrieval systems
+- developer infrastructure platforms
+
+---
+
+# GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acrossthesnow&show_icons=true&theme=tokyonight)
 
@@ -110,34 +153,19 @@ I frequently build experimental systems exploring:
 
 ---
 
-# 🧠 Areas I Enjoy Exploring
+# Technical Interests
 
-- Artificial Intelligence
-- Retrieval Augmented Generation
-- Embeddings & semantic search
-- Distributed systems
+- distributed computing
+- AI system design
+- vector search infrastructure
+- runtime orchestration
 - developer platforms
-- automation pipelines
-- infrastructure orchestration
+- infrastructure automation
 
 ---
 
-# 🎮 Outside of Development
+# Philosophy
 
-When I'm not building software I usually end up doing something equally nerdy:
+> Build systems that remove complexity rather than add to it.
 
-- 🎮 gaming
-- 🧙‍♂️ tabletop RPGs
-- 🃏 Magic: The Gathering
-- 🖥 homelab experimentation
-- 🛠 building weird tools just to see if I can
-
----
-
-# 🧭 Philosophy
-
-> The best tools disappear into the background and let people create.
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=acrossthesnow&color=blue)
+The best systems are the ones that **fade into the background and enable creativity**.
