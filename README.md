@@ -144,12 +144,8 @@ Examples of the types of systems I like designing:
 ---
 
 # GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acrossthesnow&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=acrossthesnow&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acrossthesnow&layout=compact&theme=tokyonight)
 
 ---
 
