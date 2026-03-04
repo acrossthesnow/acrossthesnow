@@ -1,45 +1,138 @@
-# Hi there! 👋 I'm acrossthesnow
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=acrossthesnow&fontSize=42&fontColor=ffffff)
 
-Welcome to my GitHub profile! 🚀  
-I love creating apps, exploring new technologies, and building projects that make a difference.
+# 👋 Hey — I'm Brandon
 
----
+I design and build **intelligent systems, developer platforms, and scalable applications**.
 
-## 🛠️ Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![iOS](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+My work focuses on combining:
 
----
+- 🧠 **Artificial Intelligence**
+- 🏗 **Full-stack architecture**
+- ☁️ **Cloud & self-hosted infrastructure**
+- 🔐 **Security-first design**
+- ⚙️ **Automation and developer experience**
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=acrossthesnow&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acrossthesnow&layout=compact&theme=radical)
+I enjoy solving complex problems by building tools that **make other tools easier to build.**
 
 ---
 
-## 🚀 Projects in Progress
-Currently deciding on what to do...
+# ⚡ What I Work On
+
+### 🧠 Intelligent Systems
+Designing systems that combine:
+
+- vector embeddings
+- retrieval augmented generation
+- semantic search
+- recommendation engines
+
+Applications range from **knowledge systems to decision-support tools.**
 
 ---
 
-## 🔗 Connect with Me
+### 🏗 Platform & Application Architecture
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/acrossthesnow)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/acrossthesnow)
+I design full-stack platforms including:
+
+- authentication systems
+- role-based access control
+- distributed services
+- real-time applications
+- API-first architectures
 
 ---
 
-## 🎯 Fun Facts About Me
+### ☁️ Infrastructure & Homelab
 
-- 🎮 MTG enthusiast and board game geek.
-- ☕ Coffee powers 80% of my code.
-- 🌌 Lover of all things sci-fi and fantasy.
-- 🛠️ Always learning something new!
+I run a self-hosted infrastructure stack used for:
+
+- container orchestration
+- AI model hosting
+- developer environments
+- experimentation with distributed systems
+
+---
+
+### 🧪 Experimental Projects
+
+I frequently build experimental systems exploring:
+
+- local AI inference
+- developer workflow automation
+- media automation pipelines
+- data processing systems
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+---
+
+## Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+---
+
+## Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+## Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acrossthesnow&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=acrossthesnow&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acrossthesnow&layout=compact&theme=tokyonight)
+
+---
+
+# 🧠 Areas I Enjoy Exploring
+
+- Artificial Intelligence
+- Retrieval Augmented Generation
+- Embeddings & semantic search
+- Distributed systems
+- developer platforms
+- automation pipelines
+- infrastructure orchestration
+
+---
+
+# 🎮 Outside of Development
+
+When I'm not building software I usually end up doing something equally nerdy:
+
+- 🎮 gaming
+- 🧙‍♂️ tabletop RPGs
+- 🃏 Magic: The Gathering
+- 🖥 homelab experimentation
+- 🛠 building weird tools just to see if I can
+
+---
+
+# 🧭 Philosophy
+
+> The best tools disappear into the background and let people create.
 
 ---
 
