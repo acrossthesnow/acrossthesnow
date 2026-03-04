@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=acrossthesnow&fontSize=42&fontColor=ffffff)
+![snake gif](https://github.com/acrossthesnow/acrossthesnow/blob/output/github-contribution-grid-snake.svg)
 
 # 👋 Hey — I'm Brandon
 
